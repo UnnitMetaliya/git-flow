@@ -15,3 +15,4 @@
 [ ] Specify commit message. For example, > git commit -m "first commit"  
 [ ] Push repository > git push -u origin master  
 [ ] Check on Github.com repository if commit got pushed
+[ ] Enjoy!
