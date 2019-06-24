@@ -12,6 +12,6 @@
 [ ] Now, go to page being shown right after clicking "Create Repository" button. It has clear instructions.
 [ ] First, add remote origin. Copy paste > git remote add origin... line  
 [ ] Add all files to staging. Type > git add .  
-[ ] Specify commit message. For example, > git commit -m "first commit"
+[ ] Specify commit message. For example, > git commit -m "first commit"  
 [ ] Push repository > git push -u origin master  
 [ ] Check on Github.com repository if commit got pushed
